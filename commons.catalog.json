@@ -1,0 +1,11 @@
+{
+  "type": "categoty",
+  "name": "Construction Lumber",
+  "entries": [
+    {
+      "type": "part",
+      "name": "2x4",
+      "id": "2x4.seed-profile"
+    }
+  ]
+}
