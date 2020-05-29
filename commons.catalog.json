@@ -6,6 +6,17 @@
       "type": "part",
       "name": "2x4",
       "id": "2x4.seed-profile"
+    },
+    {
+      "type": "category",
+      "name": "Primitives",
+      "entries": [
+        {
+          "type": "part",
+          "name": "box",
+          "id": "primitives.box"
+        },
+      ]
     }
   ]
 }
