@@ -17,6 +17,18 @@
           "id": "primitives.box"
         }
       ]
+    },
+    {
+      "type": "category",
+      "name": "Construction Lumber",
+      "entries": [
+        {
+          "type": "part",
+          "name": "2x4",
+          "id": "lumber.2x4"
+        }
+      ]
     }
+
   ]
 }
